@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 num1 = 10 # manager
 
 aaaaaaaaaa
-=======
+
 
 aaaaaaaaaa  # zs
 
 num1 = 10 # manager
 
->>>>>>> e92e96b9563f38d2e3a91e69f3fb5ff4d34b9732
